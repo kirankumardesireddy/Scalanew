@@ -1,4 +1,6 @@
-object testfile {
+
+
+object testfilenew {
   
   def main (args: Array[String]) {
     println ("hello")
